@@ -1,0 +1,29 @@
+<div class="sub-flex">
+                <div class="check">
+                    <ul>
+                        <li>To</li>
+                        <li>
+                           <div class="input">
+                               <div><p> Everybody</p></div>
+                               <div><img src="image/multimedia.svg" alt="" width="15px"></div>
+                           </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="nav-flex">
+                    <ul>
+                        <li> <i class="far fa-file"></i></li>
+                        <li>
+                            <p>File</p>
+                        </li>
+                    </ul>
+                </div>
+                <div id="dot">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+            </div>
+            <div class="text">
+                <p>Type message here...</p>
+            </div>
